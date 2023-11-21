@@ -1,0 +1,19 @@
+body {
+    background-color: #24353f;
+    color: white !important;
+
+}
+
+.container h1 {
+    color: #17a2b8;
+    font-weight: 400;
+}
+
+.container input {
+    background: transparent !important;
+    color: white !important;
+}
+
+.container {
+    width: 60%;
+}
